@@ -30,3 +30,25 @@ El sistema SmartStudy recibe las siguientes entradas:
 
 - *Tipo de señal:*  
   Señal digital proveniente de la interfaz del usuario y del sensor del dispositivo.
+
+## Salidas
+
+El sistema SmartStudy genera las siguientes salidas:
+
+- *Notificaciones al usuario:*  
+  El sistema envía recordatorios cuando se acerca la fecha de entrega de tareas o cuando es momento de iniciar una sesión de estudio.
+
+- *Visualización en pantalla:*  
+  Muestra las tareas pendientes, horarios de estudio y recomendaciones de organización dentro de la interfaz del sistema.
+
+- *Alertas sonoras (opcional):*  
+  El sistema puede emitir sonidos para llamar la atención del usuario cuando haya recordatorios importantes.
+
+- *Indicadores visuales (opcional):*  
+  Cambios de color o mensajes emergentes que indiquen tareas urgentes o próximas a vencer.
+
+- *Actuador (si aplica):*  
+  Pantalla del dispositivo o altavoz del sistema.
+
+- *Tipo de señal:*  
+  Señales digitales enviadas a la pantalla del dispositivo y al altavoz para mostrar información o emitir alertas.
