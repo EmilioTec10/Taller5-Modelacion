@@ -11,3 +11,5 @@ Este sistema busca facilitar la planificación académica y reducir el estrés r
 ## Usuario objetivo
 
 El sistema está dirigido principalmente a estudiantes de secundaria y universitarios que necesitan organizar sus tareas, proyectos y horarios de estudio de manera más eficiente. También puede ser útil para cualquier persona que desee mejorar su planificación y gestión del tiempo.
+
+#
